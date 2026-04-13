@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description:
     "Compare preços de produtos de supermercados e encontre as melhores ofertas. Economize nas suas compras com o PreçoFácil.",
   keywords: "comparador de preços, supermercado, ofertas, economia, compras",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
