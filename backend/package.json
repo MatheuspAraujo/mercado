@@ -1,0 +1,16 @@
+{
+  "name": "comparador-precos-backend",
+  "version": "1.0.0",
+  "description": "Backend do comparador de precos com scraping e SQLite",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "node api/server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "playwright": "^1.42.0"
+  }
+}
